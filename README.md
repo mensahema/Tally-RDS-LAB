@@ -9,3 +9,8 @@ Many organizations install Tally on client machines with limited resources, caus
 - Deploy Remote Desktop Services (RDS) to allow multiple users to connect
 - Create an OU,GROUP and an individual user accounts for each employee
 - Configure Tally to auto-start when a user logs in via RDP using domain group policy  
+## Requirements Checklist
+- Windows Server 2019 or 2022 or 2025 
+- Tally ERP installation (server version)  
+- Client machines with RDP access  
+- Administrator privileges on server  
